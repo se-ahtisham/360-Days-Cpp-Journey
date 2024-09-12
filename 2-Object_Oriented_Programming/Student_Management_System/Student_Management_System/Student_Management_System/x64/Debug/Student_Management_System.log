@@ -1,0 +1,7 @@
+﻿  main.cpp
+  student.cpp
+  student.h
+  studentArray.cpp
+  Generating Code...
+x64\Debug\student.obj : warning LNK4042: object specified more than once; extras ignored
+  Student_Management_System.vcxproj -> D:\C++\360-Days-Cpp-Journey\2-Object-Oriented-Programming\Student_Management_System\Student_Management_System\x64\Debug\Student_Management_System.exe
